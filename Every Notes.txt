@@ -1,1 +1,6 @@
-rest api ->  
+open api -> file yang berisi YAML or JSON
+benefit 
+standart format untuk rest api -> describe resources , endpoints, param, authentication
+
+
+rest api -> Representasional State Transfer  
